@@ -1,5 +1,7 @@
 ## Download the Latest Version Now
 
+![image](https://github.com/user-attachments/assets/bb42b1a9-ba22-42e6-812c-2eb523d803d4)
+
 # Features
 
 **User-Friendly Interface: Solara offers a clean and intuitive interface that makes it easy to load and inject scripts with just a few clicks.
